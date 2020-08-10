@@ -5,7 +5,7 @@
 ### Iniciante em Programação e robótica.<br> Focado principalmente em web design 📚
 #### Trabalho com monitoria de robótica e desenvolvo alguns projetos no IFMT 👾
 
-<p align='center'>
+<p>
   <!---Linkedin Badge-->
     <a href="https://www.linkedin.com/in/vitoria-angel-silva-130003196/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoria-angel-silva-130003196/"/></a>
   <!---Whatsapp Badge-->
