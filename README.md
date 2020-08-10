@@ -1,9 +1,9 @@
 <img align="right" width="498" height="368" src="https://i.pinimg.com/originals/cd/5f/03/cd5f03b9f13968b596849f00b12a2033.gif">
 
-## 🖐Angel Silva
+# Angel
    
-### Iniciante em Programação e robótica.<br> Estudo principalmente web design 📚
-#### Trabalho com monitoria de robótica e desenvolvo alguns projetos no IFMT
+### Iniciante em Programação e robótica.<br> Focado principalmente em web design 📚
+#### Trabalho com monitoria de robótica e desenvolvo alguns projetos no IFMT 👾
 
 <p align='center'>
   <!---Linkedin Badge-->
