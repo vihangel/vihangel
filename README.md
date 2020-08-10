@@ -19,8 +19,8 @@
   
 </p>
 
-<ul>
 <h4>Linguagens que Estudo.</h4>
+<ul>
 <li>Javascript</li>
 <li>C#</li>
 <li>R-Educ</li>
