@@ -23,6 +23,7 @@
 <ul>
 <li>Javascript</li>
 <li>C#</li>
+<li>Dart</li>
 <li>R-Educ</li>
 <li>Java</li>
 </ul>
