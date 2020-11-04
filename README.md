@@ -1,7 +1,7 @@
 <img align="right" width="458" height="auto" src="https://i.pinimg.com/originals/cd/5f/03/cd5f03b9f13968b596849f00b12a2033.gif">
 
 # Angel :innocent:
-### Iniciante em Programação e robótica.<br> Focado principalmente em web design 📚
+### Iniciante em Programação e robótica.<br> Focando principalmente em web design 📚
  <br></br>
 #### Trabalho com monitoria de robótica e desenvolvo alguns projetos no IFMT 👾
 
