@@ -3,9 +3,8 @@
 # Angel :innocent:
 ### Iniciante em Programação e Robótica.
 ### Focando principalmente em web design 📚
- <br></br>
+##### .
 #### Trabalho com monitoria de robótica, desenvolvo alguns projetos no IFMT e curso Biomedicina 💉🧬🩺🧪👾
-
 <p>
   <!---Linkedin Badge-->
     <a href="https://www.linkedin.com/in/vitoria-angel-silva-130003196/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoria-angel-silva-130003196/"/></a>
@@ -16,8 +15,9 @@
   <!---Telegram Badge-->
     <a href="https://t.me/VihAngel" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0E8ED4?style=flat-square&logo=Telegram&logoColor=white&link=t.me/VihAngel"/></a>
 </p>
-<br></br>
-<h4>Tecnologias que Estudo.</h4>
+
+##### .
+#### Tecnologias que Estudo.🤓
 <ul>
 <li>- [x] HTML/CSS/JS --> Desenvolvimento Web</li>
 <li>- [x] C++ --> Arduino</li>
