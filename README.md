@@ -44,7 +44,11 @@
                                                                                                                                      
 - 📖 **Biomedicina**\
 📆 2021 - 2024\
-📍 **UNIC** - Cuiabá, Brasil  
+📍 **UNIC** - Cuiabá, Brasil
+ 
+- 📖 **Ensino Médio Tec. Informática**\
+📆 2018 - 2020\
+📍 **Instituto Federal de Mato Grosso** - Cuiabá, Brasil  
                                                                                                                                      
 ## Experiencia
 
@@ -138,6 +142,10 @@
 - 📖 **Biomedicine**\
 📆 2021 - 2024\
 📍 **UNIC** - Cuiabá, Brazil
+ 
+- 📖 **High School Tech. Computing**\
+📆 2018 - 2020\
+📍 **Federal Institute of Mato Grosso** - Cuiabá, Brazil
                                                                                                                                      
 ## Experience
 
