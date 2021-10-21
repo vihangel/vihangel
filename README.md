@@ -5,7 +5,7 @@
 <br>
 <p align='center'>
   
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gibdike&layout=compact&theme=radical&langs_count=8">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihangel&layout=compact&theme=radical&langs_count=8">
   
 </p>
 <br>
@@ -105,7 +105,7 @@
 <br>
 <p align='center'>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gibdike&layout=compact&theme=radical&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihangel&layout=compact&theme=radical&langs_count=8">
   
 </p>
 <br>
