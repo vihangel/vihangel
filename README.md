@@ -184,7 +184,7 @@
 <img align="right" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="right" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
                                                                                                                  
-- 👨‍💻 **Research Project | OCTA.MAPS **\
+- 👨‍💻 **Research Project | OCTA.MAPS**\
 📆 2018 - 2019\
 📍 **Federal Institute of Mato Grosso** - Cuiabá, Brazil
   
