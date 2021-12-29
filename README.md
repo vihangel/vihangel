@@ -100,7 +100,7 @@
 <br>
 <h1 align='center'> Hey, my name is Angel :innocent: </h1>
 
-<h3 align='center'>I'm looking for an area in technology and I'm<br>
+<h3 align='center'>I'm looking for a job in technology and I'm<br>
  venturing into posting my Flutter learnings on Medium</h3>
 <br>
 <p align='center'>
