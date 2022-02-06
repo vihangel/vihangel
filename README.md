@@ -51,11 +51,17 @@
 📍 **Instituto Federal de Mato Grosso** - Cuiabá, Brasil  
                                                                                                                                      
 ## Experiencia
+ 
+ <img align="right" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> 
 
+ - 👨‍💻 **Flutter Dev**\
+📆 2018 - Em andamento\
+📍 Beyond - Porto Alegre, Brasil
+                                                                                                                                    
 <img align="right" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-
+ 
 - 👨‍💻 **Freelance | Design**\
 📆 2018 - Em andamento\
 📍 Cuiabá, Brasil
@@ -148,7 +154,13 @@
 📍 **Federal Institute of Mato Grosso** - Cuiabá, Brazil
                                                                                                                                      
 ## Experience
+ 
+  <img align="right" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> 
 
+ - 👨‍💻 **Flutter Dev**\
+📆 2018 - In progress\
+📍 Beyond - Porto Alegre, Brazil
+                                  
 <img align="right" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
