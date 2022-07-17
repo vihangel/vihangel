@@ -55,7 +55,7 @@
  <img align="right" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> 
 
  - 👨‍💻 **Flutter Dev**\
-📆 2018 - Em andamento\
+📆 2021 - Em andamento\
 📍 Beyond - Porto Alegre, Brasil
                                                                                                                                     
 <img align="right" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
