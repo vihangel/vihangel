@@ -51,11 +51,20 @@
 📍 **Instituto Federal de Mato Grosso** - Cuiabá, Brasil  
                                                                                                                                      
 ## Experiencia
+
+<img align="right" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> 
+<img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 
+<img align="right" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Jira-02569B?style=for-the-badge&logo=jira" /> 
+
+ - 👨‍💻 **Flutter Dev**\
+📆 2022 - Em andamento\
+📍 Grupo Portfolio - Fortaleza, Brasil
  
  <img align="right" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> 
 
  - 👨‍💻 **Flutter Dev**\
-📆 2021 - Em andamento\
+📆 2021 - 2022\
 📍 Beyond - Porto Alegre, Brasil
                                                                                                                                     
 <img align="right" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
