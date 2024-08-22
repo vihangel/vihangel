@@ -1,6 +1,6 @@
 <h1 align='center'> Oie, me chamo Angel :innocent: </h1>
 
-<h3 align='center'>Estou em busca da minha área na tecnologia e estou<br>
+<h3 align='center'>Buscando sempre novos projetos legais<br>
  me aventurando em postar meus aprendizados sobre Flutter no Medium</h3>
 <br>
 <p align='center'>
